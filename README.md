@@ -7,4 +7,6 @@ OBS: Este projeto foi realizado no primeiro semestre de 2021 com o intuito de ap
 
 
 ![Home](https://user-images.githubusercontent.com/79214802/189496835-60fcb115-d5be-4097-b3f5-b6d83e32bcdf.png)
+
+
 ![Tela de criticas](https://user-images.githubusercontent.com/79214802/189496843-60f5d2b1-d476-4825-8eed-c2171f5c9f58.png)
