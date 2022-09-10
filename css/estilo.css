@@ -1,0 +1,1647 @@
+@charset "UTF-8";
+
+/*Cabecalho*/
+
+body {
+    width: 1345px;
+    margin: 0px auto 0px auto;
+    background-color: #000000;
+    color: #fff;
+    border-width: 3px;
+    border-style: solid;
+    border-color: red;
+}
+
+
+.imgps {
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.logopcs {
+    width: 194px;
+    height: 60px;
+    margin-top: 5px;
+    float: left;
+}
+
+nav {
+    font-family: 'Open Sans', sans-serif;
+    width: 1345px;
+}
+
+nav :hover {
+    color: red;
+}
+
+.anav {
+    width: 116px;
+    margin-top: 25px;
+    margin-left: 90px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.pesq {
+    width: 200px;
+    margin-top: 25px;
+    margin-left: 40px;
+}
+
+
+
+/*Home*/
+
+.posts {
+    margin-left: 100px;
+    margin-top: 50px;
+    width: 322px;
+    float: left;
+
+}
+
+.atccs {
+    width: 1300px;
+    height: 700px;
+    border: 5px;
+    background-color: #fff;
+
+}
+
+.sobre1 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.6em;
+    text-align: left;
+    margin-left: 25px;
+    width: 1300px;
+    color: #fff
+}
+
+.sobre2 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.6em;
+    text-align: left;
+    margin-left: 25px;
+    width: 1300px;
+    color: #fff
+}
+
+
+.arthome {
+    margin-left: 25px;
+}
+
+.h2csh {
+    width: 1300px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #fff;
+}
+
+
+.h1cs {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #fff
+}
+
+
+/*home séries*/
+
+
+
+.imgh {
+    margin: 20px 20px 20px 20px;
+}
+
+#section-series {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    text-align: center;
+    margin: 100px 20px 20px 20px;
+
+}
+
+#reality {
+    text-align: center;
+}
+
+.serieh2 a {
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.5em;
+
+}
+
+.serieh3 a {
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.5em;
+}
+
+.serieh4 a {
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.5em;
+}
+
+.serieh5 a {
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.5em;
+}
+
+.serieh2 a:hover{
+    color: red;
+}
+
+.serieh3 a:hover{
+    color: red;
+}
+
+.serieh4 a:hover{
+    color: red;
+}
+
+.serieh5 a:hover{
+    color: red;
+}
+
+.h1serie {
+    text-align: center;
+    font-family: 'roboto slab', serif;
+    font-size: 1.7em;
+}
+
+.h2ser{
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-size: 2.8em;
+    padding-top: 30px;
+}
+
+
+/*Serie 3%*/
+
+
+
+.atccs {
+    width: 900px;
+    height: 1300px;
+    border: 5px;
+    background-color: #000;
+
+}
+
+.posts {
+    margin-left: 20px;
+    margin-top: 50px;
+    width: 322px;
+    float: left;
+
+}
+
+.h2crt {
+    font-family: 'open sans', sans-serif;
+    float: left;
+    width: 497px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+
+.text {
+    font-family: 'roboto slab', serif;
+    font-size: 1.2em;
+    margin-left: 10px;
+    float: left;
+    width: 497px;
+}
+
+.text2 {
+    font-family: 'roboto slab', serif;
+    font-size: 1.2em;
+    margin-left: 20px;
+    margin-top: 1px;
+    float: left;
+    width: 829px;
+}
+
+.extra {
+    font-family: 'roboto slab', serif;
+    font-size: 1.2em;
+    margin-left: 20px;
+    width: 500px;
+}
+
+.asdcs {
+    margin-top: -1270px;
+    float: right;
+    height: 600px;
+    width: 400px;
+}
+
+.linhavertical{
+    margin-top: 50px;
+    margin-left: 10px;
+    float:right;
+    height: 1022px;
+    border: 1px solid red;
+}
+
+
+.h2asd{
+   font-family: 'open sans', sans-serif;
+    width: 400px;
+    text-align: center; 
+    margin-left: -25px;
+}
+
+.h2cs {
+    clear: both;
+    font-family: 'open sans', sans-serif;
+    width: 1345px;
+    margin-top: 30px;
+    text-align: center;
+
+}
+
+
+.h1cs {
+    font-family: 'open sans', sans-serif;
+    text-align: center;
+}
+
+.hdr {
+    display: flex;
+}
+
+.tipo {
+    font-family: 'roboto slab', serif;
+    font-size: 1.2em;
+    width: 370px;
+    margin-left: 40px;
+    margin-right: 70px;
+}
+
+.data {
+    font-family: 'roboto slab', serif;
+    font-size: 1.2em;
+    width: 401px;
+    margin-right: 70px;
+
+}
+
+.temporada {
+    font-family: 'roboto slab', serif;
+    font-size: 1.2em;
+    width: 360px;
+}
+
+.p1 {
+    margin-left: 70px;
+    
+
+}
+
+.p2 {
+    margin-left: 70px;
+}
+
+.p3 {
+    margin-left: 70px;
+}
+
+
+
+.nomep1 {
+    margin-left: 20px;
+    width: 303px;
+
+}
+
+.nomep2 {
+    margin-left: 40px;
+    width: 303px;
+
+}
+
+.nomep3 {
+    margin-left: 35px;
+    width: 303px;
+    
+
+}
+
+
+.avaliacoesp {
+    clear: both;
+    width: 1345px;
+    display: flex;
+    font-size: 1.2em;
+}
+
+
+.avm {
+    width: 400px;
+    margin-left: 50px;
+    margin-right: 100px;
+}
+
+.avj {
+    width: 400px;
+    margin-right: 100px;
+}
+
+.avmo {
+    width: 400px;
+    margin-right: 50px;
+}
+
+/*Serie Reality Z*/
+
+
+.atccsz {
+    width: 900px;
+    height: 1200px;
+    border: 5px;
+    background-color: #000;
+}
+
+
+.asdcsz {
+    margin-top: -1170px;
+    float: right;
+    height: 600px;
+    width: 400px;
+}
+
+
+.p2z {
+    margin-left: 70px;
+    
+}
+
+.p3z {
+    margin-left: 70px;
+
+}
+
+.p4z {
+    margin-left: 70px;
+}
+
+
+
+.nomep2z {
+    margin-left: 80px;
+    width: 180px;
+
+}
+
+.nomep3z {
+    margin-left: 50px;
+    width: 250px;
+
+}
+
+.nomep4z {
+    margin-left: 65px;
+}
+
+
+
+
+/*Serie Cidade Invisivel*/
+
+
+.hdrinvisivel {
+    display: flex;
+    color: #ffffff;
+}
+
+
+.tipoinvisivel {
+    width: 200px;
+    margin-left: 100px;
+    margin-right: 170px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.1em;
+}
+
+.datainvisivel {
+    width: 350px;
+    margin-left: 145px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.1em;
+}
+
+.temporadainvisivel {
+    width: 500px;
+    margin-left: 100px;
+    margin-right: 80px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.1em;
+}
+
+.atcinvisivel {
+    width: 900px;
+    height: 1300px;
+    border: 5px;
+    color: #ffffff;
+
+}
+
+.postsinvisivel {
+    margin-left: 28px;
+    margin-top: 50px;
+    width: 322px;
+    float: left;
+}
+
+.crtci {
+    margin-top: 50px;
+    font-size: 1.4em;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 10px;
+    float: left;
+    width: 497px;
+}
+
+.textoinvisivel {
+    font-size: 1.1em;
+    font-family: 'Roboto Slab', serif;
+    margin-left: 10px;
+    float: left;
+    width: 497px;
+}
+
+
+
+.textoinvisivel2 {
+    font-size: 1.4em;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 28px;
+    float: left;
+    width: 829px;
+    text-align: center;
+}
+
+.textoinvisivel3 {
+    font-size: 1.1em;
+    font-family: 'Roboto Slab', serif;
+    margin-left: 28px;
+    margin-top: 1px;
+    float: left;
+    width: 829px;
+}
+
+
+
+
+
+.linhaverticalci{
+    margin-top: 60px;
+    margin-left: 10px;
+    float:right;
+    height: 1022px;
+    border: 1px solid red;
+    
+    
+}
+
+
+.asdcsci {
+   margin-top: -1290px;
+    float: right;
+    height: 600px;
+    width: 400px;
+}
+
+.h2invisivel {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.4em;
+    width: 400px;
+    margin-top: 40px;
+    color: #ffffff;
+
+}
+
+
+.atoresinvisivel {
+    font-family: 'Roboto Slab', serif;
+    height: 600px;
+    width: 400px;
+
+}
+
+.marco {
+    
+    margin-left: 70px;
+}
+
+.alessandra {
+    margin-left: 70px;
+}
+
+.jessica {
+    margin-left: 70px;
+}
+
+
+
+.nomemarco {
+    font-size: 1.0em;
+    margin-left: 70px;
+    width: 200px;
+    color: #fff;
+}
+
+.nomealessandra {
+    font-size: 1.0em;
+    margin-left: 60px;
+    width: 220px;
+    color: #fff;
+}
+
+.nomejessica {
+    font-size: 1.0em;
+    margin-left: 70px;
+    width: 200px;
+    color: #fff;
+}
+
+.h2avaliacao {
+    clear: both;
+    width: 1345px;
+    margin-top: 10px;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.avaliainvisivel {
+    width: 1345px;
+    margin-top: 10px;
+    display: flex;
+    color: #fff;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.1em;
+}
+
+.julia {
+    width: 400px;
+    margin-left: 50px;
+    margin-right: 100px;
+    color: #fff;
+}
+
+.campos {
+    width: 400px;
+    margin-right: 100px;
+    color: #fff;
+}
+
+.rico {
+    width: 400px;
+    margin-right: 50px;
+    color: #fff;
+}
+
+
+
+
+/*Serie Sintonia*/
+
+
+.hdrsintonia {
+    display: flex;
+    color: #ffffff;
+}
+
+
+.tiposintonia {
+    width: 200px;
+    margin-left: 100px;
+    margin-right: 200px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.2em;
+}
+
+.datasintonia {
+    width: 350px;
+    margin-left: 145px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.2em;
+}
+
+.temporadasintonia {
+    width: 500px;
+    margin-left: 100px;
+    margin-right: 80px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.2em;
+}
+
+.atcsintonia {
+    width: 900px;
+    height: 1400px;
+    border: 5px;
+    color: #ffffff;
+
+}
+
+.postssintonia {
+    margin-left: 28px;
+    margin-top: 50px;
+    width: 322px;
+    float: left;
+}
+
+.crtcss {
+    font-family: 'open sans', sans-serif;
+    float: left;
+    width: 497px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+
+.textosintonia {
+    font-size: 1.2em;
+    font-family: 'Roboto Slab', serif;
+    margin-left: 10px;
+    float: left;
+    width: 497px;
+}
+
+.textosintonia3 {
+    font-size: 1.2em;
+    font-family: 'Roboto Slab', serif;
+    margin-left: 28px;
+    float: left;
+    width: 829px;
+}
+
+.textosintonia2 {
+    font-size: 1.4em;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 28px;
+    float: left;
+    width: 829px;
+    text-align: center;
+}
+
+.linhaverticals{
+    margin-top: 50px;
+    margin-left: 10px;
+    float:right;
+    height: 1022px;
+    border: 1px solid red;
+}
+
+
+.h2sintonia {
+    float: right;
+    width: 400px;
+    margin-top: 40px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.4em;
+    text-align: center;
+}
+
+.asdcss {
+    margin-top: -1390px;
+    float: right;
+    height: 600px;
+    width: 400px;
+
+}
+
+.jot {
+    margin-left: 70px;
+}
+
+.bruna {
+    margin-left: 70px;
+}
+
+.Chri {
+    margin-left: 77px;
+}
+
+
+
+.nomejot {
+    margin-left: 110px;
+    width: 160px;
+    color: #fff;
+}
+
+.nomebruna {
+    margin-left: 62px;
+    width: 220px;
+    color: #fff;
+}
+
+.nomeChri {
+    margin-left: 55px;
+    width: 240px;
+    color: #fff;
+}
+
+
+.h2avaliacaosintonia {
+    float: right;
+    width: 1345px;
+    margin-top: 10px;
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.avaliasintonia {
+    width: 1345px;
+    margin-top: 10px;
+    display: flex;
+    color: #fff;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.1em;
+}
+
+.maria {
+    width: 400px;
+    margin-left: 50px;
+    margin-right: 100px;
+    color: #fff;
+}
+
+.paulo {
+    width: 400px;
+    margin-right: 100px;
+    color: #fff;
+
+}
+
+.vinicius {
+    width: 400px;
+    margin-right: 50px;
+    color: #fff;
+
+}
+
+
+
+
+
+
+
+/*Comandos usados na home dos filmes*/
+
+.h2-filmes {
+
+    font-size: 2.9em;
+    font-family: 'Roboto Slab', serif;
+    color: #fff;
+    float: left;
+    margin-left: 330px;
+    margin-top: 180px;
+    position: absolute;
+}
+
+.art-filmes {
+    clear: both;
+    color: #ffffff;
+}
+
+.ban03 {
+    float: right;
+    padding-right: 70px;
+    text-align: center;
+}
+
+.princ-filme {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    clear: both;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+.fil {
+    color: #000;
+}
+
+.ban-maior {
+    margin: 30px;
+    margin-left: 25px;
+}
+
+.h2-ban a:hover{
+    color: red;
+}
+
+.h2-ban a {
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.1em;
+
+}
+
+.imgcam {
+/*        background-image:url("../images/camera.png");*/
+    width: 800px;
+    height: 440px;
+    float: left;
+    margin-left: 25px;
+    position: absolute;
+}
+
+.htrcf1 {
+    clear: both;
+    margin-top: 10px;
+
+}
+
+/*comandos para o filme tropa de elite e cidade de deus*/
+.h1cf {
+    float: left;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 130px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2.4em;
+    color: #fff;
+    height: 0px;
+}
+
+.imgcsh {
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    margin-left: 60px;
+    padding: 10px;
+
+}
+
+.imgpostf {
+
+    width: 302px;
+    float: left;
+    clear: both;
+    margin-left: 13px;
+}
+
+
+.arttcf {
+    width: 1010px;
+    float: right;
+    /*    margin-top: -500px;*/
+    margin-right: 20px;
+    height: 500px;
+
+
+}
+
+.asdcf {
+    clear: both;
+}
+
+.sctnDEA {
+    width: 480px;
+    float: left;
+
+}
+
+#sec_atores {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.critica {
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.1em;
+    margin-left: 30px;
+    color: #fff;
+}
+
+.hsec {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.7em;
+    margin-left: 20px;
+    color: #fff;
+}
+
+.sint {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.8em;
+    margin-left: 30px;
+    color: #fff;
+}
+
+.nome-at {
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    color: #fff;
+    font-size: 1.2em;
+
+}
+
+.prem {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.7em;
+    margin-left: 20px;
+    color: #fff;
+}
+
+.sec_prem {
+    clear: both;
+    padding-top: 20px;
+}
+
+.ulprem li {
+    font-family: 'Roboto Slab', serif;
+    padding: 4px;
+}
+
+
+
+.lanc_filme {
+    font-family: 'Open Sans', sans-serif;
+    float: left;
+    margin-left: 85px;
+    font-size: 1.1em;
+}
+
+.emp {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 90px;
+    padding-right: 10px;
+}
+
+
+.lanc_cid {
+    font-family: 'Open Sans', sans-serif;
+    float: left;
+    margin-left: 130px;
+    font-size: 1.1em;
+}
+
+.hsecid {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.7em;
+    margin-left: 20px;
+    color: #fff;
+    padding-top: 50px;
+}
+
+.ulper li {
+    padding: 6px;
+    font-family: 'Roboto Slab', serif;
+}
+
+.h2aval {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.7em;
+    color: #fff;
+    padding-top: 20px;
+    text-align: center;
+
+}
+
+.avalifil {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.1em;
+    text-align: left;
+}
+
+.divav {
+    width: 400px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.dateav {
+    font-family: 'Roboto Slab', serif;
+    font-size: .6em;
+    color: #fff;
+}
+
+.pfil{
+    font-size: 1.0em;
+}
+
+/*filmes minha mãe é uma peça*/
+
+.hm1 {
+    clear: both;
+    margin-top: 10px;
+
+}
+
+.h1m {
+    float: left;
+    margin-top: 170px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2.0em;
+    color: #fff;
+    height: 0px;
+}
+
+.imgm {
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+
+}
+
+.imgpostm {
+
+    width: 302px;
+    float: left;
+    clear: both;
+    margin-left: 13px;
+}
+
+
+.artm {
+    width: 1010px;
+    float: right;
+    margin-right: 20px;
+    height: 500px;
+
+
+}
+
+.asm {
+    clear: both;
+}
+
+.sctm {
+    width: 480px;
+    float: left;
+
+}
+
+#m_atores {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.criticam {
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.1em;
+    margin-left: 30px;
+    color: #fff;
+}
+
+.hsecm {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.7em;
+    margin-left: 20px;
+    color: #fff;
+}
+
+.critm {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.8em;
+    margin: 15px 30px;
+    color: #fff;
+}
+
+.nome-m {
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    color: #fff;
+
+}
+
+.premm {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.7em;
+    margin-left: 20px;
+    color: #fff;
+}
+
+.sec_premm {
+    clear: both;
+    padding-top: 20px;
+}
+
+.ulpremm {
+    margin: 20px;
+    font-family: 'Roboto Slab', serif;
+}
+
+
+
+.lanc_m {
+    font-family: 'Open Sans', sans-serif;
+    float: left;
+    margin-left: 85px;
+    font-size: 1.1em;
+}
+
+.avaliacoespm {
+    width: 1345px;
+    font-size: .9em;
+    margin: 10px;
+    padding-bottom: 30px;
+    display: flex;
+    font-family: 'Roboto Slab', serif;
+}
+
+.nomeav {
+    width: 400px;
+    margin-left: 40px;
+    margin-right: 50px;
+    color: #fff;
+}
+
+.h2cssav {
+    text-align: center;
+    font-size: 1.7em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.dataav {
+    font-size: .6em;
+}
+
+.ulm li {
+    font-family: 'Roboto Slab', serif;
+}
+
+.empm {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+
+/*filmes até que a sorte nos separe*/
+
+.hs1 {
+    clear: both;
+    margin-top: 10px;
+
+}
+
+.h1s {
+    float: left;
+    margin-top: 170px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2.0em;
+    color: #fff;
+    height: 0px;
+}
+
+.imgs {
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+
+}
+
+.imgposts {
+
+    width: 302px;
+    float: left;
+    clear: both;
+    margin: 20px;
+}
+
+
+.arts {
+    width: 1010px;
+    float: right;
+    margin-top: -550px;
+    margin-right: 20px;
+    height: 500px;
+
+
+}
+
+.ass {
+    clear: both;
+
+}
+
+.scts {
+    width: 480px;
+    float: left;
+
+}
+
+#s_atores {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.criticas {
+    font-family: 'Roboto Slab', serif;
+    font-size: 1em;
+    margin: 1px 0px 10px 60px;
+    color: #fff;
+}
+
+.criticas1 {
+    clear: both;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.1em;
+    margin-left: 0px;
+    color: #fff;
+
+}
+
+.hsecs {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.7em;
+    margin-left: 20px;
+    color: #fff;
+}
+
+.crits {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.8em;
+    margin: 20px 60px;
+    color: #fff;
+}
+
+.nome-s {
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    color: #fff;
+
+}
+
+.press {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.7em;
+    margin-left: 20px;
+    color: #fff;
+}
+
+.sec_press {
+    clear: both;
+    padding-top: 20px;
+}
+
+.ulpress {
+    margin: 20px;
+    font-family: 'Roboto Slab', serif;
+}
+
+
+
+.lanc_s {
+    font-family: 'Open Sans', sans-serif;
+    float: left;
+    margin-left: 85px;
+    font-size: 1.1em;
+}
+
+.avaliacoesps {
+    width: 1345px;
+    font-size: .9em;
+    margin: 10px;
+    padding-bottom: 30px;
+    display: flex;
+    font-family: 'Roboto Slab', serif;
+}
+
+
+
+.uls li {
+    font-family: 'Roboto Slab', serif;
+}
+
+.emp1s {
+    margin: 0px 30px;
+}
+
+.emp2s {
+     margin: 0px 20px;
+}
+
+.emp3s {
+     margin: 0px 20px;
+}
+
+.emp4s {
+     margin: 0px 10px;
+}
+
+.emp5s {
+     margin: 0px 0px;
+}
+
+.emp6s {
+     margin: 0px 10px;
+}
+
+.lis {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2em;
+    margin: 20px 0px;
+    color: #fff;
+}
+
+
+.nomeavs {
+    width: 400px;
+    margin-left: 50px;
+    margin-right: 100px;
+    color: #fff;
+}
+
+.h2cssavs {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.dataavs {
+    font-size: .6em;
+}
+
+
+
+
+
+
+
+/*tela de contato*/
+#artcnt {
+    margin-top: 90px;
+}
+
+.h1csc {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #fff;
+    font-size: 1.7em;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.formc {
+    width: 630px;
+    float: left;
+}
+
+.boxinfo {
+    background-color: #0000;
+    color: #fff;
+    font-family: 'roboto slab', serif;
+    font-size: 1.7em;
+    width: 600px;
+    height: 40px;
+    margin-bottom: 40px;
+    margin-left: 25px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #fff;
+}
+
+.boxmens {
+    background-color: #0000;
+    color: #fff;
+    font-family: 'roboto slab', serif;
+    font-size: 1.7em;
+    width: 600px;
+    height: 200px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+    text-align: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #fff;
+}
+
+.env {
+    margin-left: 25px;
+    font-family: 'roboto slab', serif;
+    font-size: 1.7em;
+    margin-bottom: 90px;
+}
+
+
+.pc {
+    width: 650px;
+    font-family: 'roboto slab', serif;
+    font-size: 1.7em;
+    float: right;
+    margin-top: 0px;
+    margin-right: 25px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+}
+
+
+.cont {
+    float: right;
+    width: 650px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-family: 'roboto slab', serif;
+    font-size: 1.5em;
+
+}
+
+
+/*tela sobre nos*/
+
+
+
+.sobrenos {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 2.2em;
+    margin-top: 90px;
+    margin-left: 0px;
+    text-align: center;
+    color: #fff
+}
+
+.sobrenos1 {
+    float: left;
+    width: 600px;
+    height: 600px;
+    border: 5px;
+    margin-top: 45px;
+    color: #fff
+}
+
+.titulosobre {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 1.6em;
+}
+
+.textosobrenos {
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.4em;
+    margin-left: 25px;
+    width: 600px;
+
+
+}
+
+
+.asdsn{
+    float: right;
+    width: 600px;
+    
+    
+}
+
+.tituloequipe {
+    margin-top: 75px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.6em;
+    text-align: center;
+    
+}
+
+
+
+.tab{
+    margin-left: 40px;
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.2em;
+    border-collapse: collapse;
+    
+}
+    
+th{
+    border: 2px solid;
+    padding: 10px;
+    
+}
+
+                                                                                           
+.th1{                               
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.5em;
+}
+
+/*rodape*/
+
+ul {
+    list-style-type: none;
+}
+
+
+.ftrcs {
+    margin-top: 50px;
+    clear: both;
+    height: 100px;
+    display: flex;
+    margin-bottom: 20px;
+    padding-top: 30px;
+}
+
+.ulcs {
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 100px;
+    float: left;
+
+}
+
+ul li a:hover {
+    color: red;
+}
+
+.ulcs2 {
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+    text-decoration: none;
+    float: left;
+    margin-left: 120px;
+    margin-right: 50px;
+
+}
+
+
+.textroda {
+    color: #fff;
+    text-decoration: none;
+}
+
+.ulrscs {
+    float: left;
+    margin-left: 50px;
+    margin-right: 10px;
+
+}
+
+.icone2 {
+    float: left;
+    margin-top: -58px;
+    margin-left: 33px;
+}
+
+
+.icone3 {
+    float: left;
+    margin-top: -28px;
+    margin-left: 33px;
+}
+
+ul li a img:hover {
+    width: 26px;
+    height: 26px;
+}
+
+.pobg {
+    font-family: 'Open Sans', sans-serif;
+    float: left;
+    width: 420px;
+    margin-left: -50px;
+    margin-right: 25px;
+    color: #fff;
+    margin-top: 30px;
+}
+
+
+
+b {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.8em;
+    margin-left: 500px;
+    color: #fff;
+}
+
